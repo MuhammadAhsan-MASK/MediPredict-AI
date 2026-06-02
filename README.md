@@ -1,10 +1,10 @@
-# 🩺 MediPredict-AI
+#  MediPredict-AI
 
 **MediPredict-AI** is an advanced AI-powered disease prediction system that bridge the gap between symptoms and medical insights. It consists of a high-performance **FastAPI backend** running a Machine Learning model and a stunning **Flutter mobile application** for a seamless user experience.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **AI-Powered Predictions**: Uses a trained Random Forest (or similar) model to predict diseases based on user-input symptoms.
 - **Dynamic Symptom Selection**: Real-time fetching of supported symptoms from the backend.
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 - **Framework**: [FastAPI](https://fastapi.tiangolo.com/)
@@ -29,7 +29,7 @@
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 MediPredict-AI/
@@ -78,13 +78,8 @@ flutter run
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 Contributions are welcome! Feel free to open a Pull Request or report an issue.
-
----
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
